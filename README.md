@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, i'm Fernando Malinowski 👋
+- ⚡ Java Full Stack Developer: HTML, CSS , Js, Git + GitHub, MySQL, MariaDB, Java (Back-End).
+- 🌱 I’m currently learning Spring Boot.
+
+
+
+
 
 <!--
 **fernandoasd/fernandoasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
